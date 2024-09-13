@@ -1,0 +1,38 @@
+1.Describe the techniques that can be used to determine the chemical composition of a material and its structure 
+Chemical composition: IR (functional groups identification), DSC (Tg and Tm determination), TGA (presence of additive, moisture, fillers, ...), SEM (element analysis by identification of the present elements) 
+Crystalline structure: XR (crystalline phases, phase purity, presence of polymorphic forms, crystallinity degree), TEM, DSC (formulation of crystal structures and kinetics of crystallization), Optical Microscope + Hot stage (formations of crystal as function of temperature and kinetics of crystallization)
+2. Indicate some differences in structure and properties of a crystalline and a non-crystalline material 
+Crystalline: ordered, anisotropic, melting temperature defined, matt 
+Amorphous: disordered, isotropic, melting temperature not defined, transparent
+3 Differentiate between polymorphism and isomerism 
+Polymorphism is the capability of a material to crystallize in different crystalline structures with different crystal lattices, while isomerism is referred to different compounds formed by the same atoms but with different disposition. There exists also the geometrical isomerism, which distinguishes whether the carbon double bond is cis or trans (so if in the monomer the "extra groups are placed in the same side or not), and the stereoisomerism that differentiate the polymers by their chain configuration (isotactic, syndiotactic, atactic)
+4 Can crystallinity affect any property of a polymeric material? 
+Yes. The more is the crystallinity degree the harder and more brittle is the polymer, the young modulus reduction with temperature is less severe, the glass transition and the melting temperatures are increased
+
+
+Some polymers can be either thermoplastic or thermosetting. Why is that? 
+The dual possibility for these polymers to be either thermoplastic or thermosetting depends on the synthesis process where the covalent crosslinks can be formed or not 
+Is it possible to grind up and use again a thermosetting polymer such as phenol formaldehyde? Why? Is it possible to grind up and use again polypropylene? Why? 
+It's impossible to recycle thermosetting polymers since the strength of the covalent crosslinks gives them the property not to melt so they can only undergo to thermal degradation, so it's impossible to manage them to be reusable since the process of polymers occurs at the molten state. Polypropylene is reusable since it is a thermoplastic polymer that can be melt and processed again
+
+
+
+Elastomer Elastomers are polymers formed by flexible chains with some crosslinks between the units. Their glass transition temperature is typically very low, and their working temperature is widely above that, indeed they have rubbery characteristics, such as high elasticity and high capability to return to the original state after a deformation. Under Tg, they are hard and brittle materials 
+
+5. Describe the defects present in the bi-dimensional crystalline structure. Associate to one or more defects present in the crystal one or more examples of their influence on the final properties of the material 
+Interstitial impurity atoms: formation of an alloy to improve the properties 
+Substitutional impurity atom: doping (for semiconductors this improves the conductivity) or alloying 
+Vacancies: Thanks to the vacancies in ionic solids, at high temperature they become electricity conductors because the atoms are free to move (Schotty defects)
+
+6. For the Iron-Carbon alloys, starting from austenite what phases can be obtained by varying the cooling rate? Describe the differences in mechanical properties 
+From austenite with corresponding cooling rate from low to high we can get: 
+- spheroidite: 2 phases (small ferrite particles) 
+- coarse perlite: 2 phases 
+- fine perlite: 2 phases 
+- bainite: 2 phases 
+- martensite: 1 phase (BCT structure of Iron atoms with supersaturated interstitial C atoms) 
+
+The mechanical properties see an increasing of hardness and brittleness with the increasing of the cooling rate
+
+
+
