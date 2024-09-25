@@ -1,1 +1,18 @@
 3. A copolymer is characterized by two different repeating units that can be arranged in different ways along the macromolecular chain: random, block, alternating, graft. Random copolymers can crystallize according to the composition, so if there's a prevalence of one of the repeating units the crystal phase will follow the one of those components. Block copolymers can crystallize only if the blocks are long enough to allow the chain fold. Alternating and graft copolymer can't crystallize.
+
+
+
+1.	统一channel和filter，要么都用channel或filter。Inter-channel可以改一下
+2.	Intro中第二段介绍剪枝的有些冗余，建议用一句话带过合并到第一段中，将第二段挪到related work中
+3.	Related work中可以将第一和第二节位置互换，对应你的三个创新点的顺序
+4.	213 e大写。210，213引用的位置有点奇怪，可以加上主语，例如，某某【cite】
+5.	224引用在句号里头 218缺少引用
+6.	334 空格
+7.	338和336的两个矩阵建议使用不同的符号，
+8.	伪代码中公式没有cite上，15行两个retrain
+9.	Conclusion中使用现代时
+10.	子章节的标题中每一个单词的首字母是否大写要统一
+11.	274空格 282空格
+12.	241空格 309空格
+13.	321 intra拼错了
+14.	引用位置应该是在作者名字的后面，或一句话句号前
